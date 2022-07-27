@@ -111,4 +111,4 @@ client.on('messageCreate', async message =>{
 })
 
 
-client.login("OTgzNTE1OTE0NjY0Mjk2NDY4.GMxlUe.mVn4oHFddZOy83J7Gn8epfGqQiP-TFaJooy9BM");//last line
+client.login(mytoken);//last line
